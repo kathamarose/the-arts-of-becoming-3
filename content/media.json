@@ -58,5 +58,17 @@
     "alt": "Silhouette of a yoga pose on the beach at sunset",
     "originalName": "yoga-sunset.jpg",
     "createdAt": "2026-11-24T15:49:38.740Z"
+  },
+  "media/2026/11/hydrangea-garden-cssp.jpg": {
+    "id": "med_csspytz1v2",
+    "path": "media/2026/11/hydrangea-garden-cssp.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 501153,
+    "width": 1024,
+    "height": 1536,
+    "alt": "Kathleen standing beside a blooming hydrangea on a brick garden path",
+    "originalName": "hydrangea-garden.jpg",
+    "createdAt": "2026-11-24T15:49:43.409Z"
   }
 }
