@@ -34,5 +34,17 @@
     "alt": "Kathleen smiling with her eyes closed, leaning into bright red roses",
     "originalName": "kathleen-roses.jpg",
     "createdAt": "2026-11-24T15:49:20.428Z"
+  },
+  "media/2026/11/kathleen-green-leaves-gf4g.jpg": {
+    "id": "med_gf4g5jv4gh",
+    "path": "media/2026/11/kathleen-green-leaves-gf4g.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 127010,
+    "width": 1024,
+    "height": 683,
+    "alt": "Kathleen looking over her shoulder, long dark hair, framed by green leaves",
+    "originalName": "kathleen-green-leaves.jpg",
+    "createdAt": "2026-11-24T15:49:28.889Z"
   }
 }
