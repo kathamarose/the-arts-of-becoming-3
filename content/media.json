@@ -70,5 +70,17 @@
     "alt": "Kathleen standing beside a blooming hydrangea on a brick garden path",
     "originalName": "hydrangea-garden.jpg",
     "createdAt": "2026-11-24T15:49:43.409Z"
+  },
+  "media/2026/11/dress-shore-5pjh.jpg": {
+    "id": "med_5pjhfkpmnn",
+    "path": "media/2026/11/dress-shore-5pjh.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 107576,
+    "width": 1024,
+    "height": 683,
+    "alt": "Kathleen in a long dress at the water's edge with a rocky jetty behind her",
+    "originalName": "dress-shore.jpg",
+    "createdAt": "2026-11-24T15:49:48.675Z"
   }
 }
