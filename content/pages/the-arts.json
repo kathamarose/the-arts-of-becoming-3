@@ -17,10 +17,16 @@
           "d": [
             12
           ]
+        },
+        "blockGap": {
+          "d": "none"
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light",
+        "padding": {
+          "d": 50
+        }
       },
       "blocks": [
         {
@@ -80,7 +86,10 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light",
+        "padding": {
+          "d": 40
+        }
       },
       "blocks": [
         {
@@ -91,8 +100,8 @@
             "image": {
               "alt": "Silhouette of a yoga pose on the beach at sunset",
               "focal": [
-                0.3,
-                0.5
+                0.638,
+                0.062
               ],
               "height": 683,
               "src": "media/2026/11/yoga-sunset-fpth.jpg",
