@@ -1,5 +1,15 @@
 {
   "version": 1,
+  "brief": {
+    "about": "The Arts of Becoming is a living body of work by Kathleen Marie Rose: practices, experiences and creative works for remembering your nature, liberating what is alive, and bringing more of your truth into form. It includes The Thread (1:1 mentorship), embodiment and practice, courses and circles, earth and living systems, creative work, and a journal. True To Essence is her separate photography world.",
+    "audience": "People in a season of change who want to remember who they are and live it more truthfully. They should explore the arts, begin a conversation about The Thread, read the journal, or inquire.",
+    "feeling": [
+      "devotional",
+      "earthy",
+      "unhurried"
+    ],
+    "notes": "Standalone site for artsofbecoming.com. True To Essence (truetoessence.com) is a separate photography site: link out to it, no photography pages or prices here. Nav: Home, The Arts, The Thread, Journal, About, Inquire, plus a True To Essence link. Voice and palette carried from the old Become in Beauty site (deep brown on soft cream)."
+  },
   "brand": {
     "name": "The Arts of Becoming"
   },
@@ -126,15 +136,5 @@
       "at": "2026-11-24T14:48:55.443Z"
     }
   ],
-  "updatedAt": "2026-11-24T14:48:55.443Z",
-  "brief": {
-    "about": "The Arts of Becoming is a living body of work by Kathleen Marie Rose: practices, experiences and creative works for remembering your nature, liberating what is alive, and bringing more of your truth into form. It includes The Thread (1:1 mentorship), embodiment and practice, courses and circles, earth and living systems, creative work, and a journal. True To Essence is her separate photography world.",
-    "audience": "People in a season of change who want to remember who they are and live it more truthfully. They should explore the arts, begin a conversation about The Thread, read the journal, or inquire.",
-    "feeling": [
-      "devotional",
-      "earthy",
-      "unhurried"
-    ],
-    "notes": "Standalone site for artsofbecoming.com. True To Essence (truetoessence.com) is a separate photography site: link out to it, no photography pages or prices here. Nav: Home, The Arts, The Thread, Journal, About, Inquire, plus a True To Essence link. Voice and palette carried from the old Become in Beauty site (deep brown on soft cream)."
-  }
+  "updatedAt": "2026-11-24T14:48:55.443Z"
 }

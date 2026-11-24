@@ -1,0 +1,14 @@
+{
+  "media/2026/11/test-12k2.jpg": {
+    "id": "med_12k2enzq16",
+    "path": "media/2026/11/test-12k2.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 178565,
+    "width": 1024,
+    "height": 1024,
+    "alt": "test",
+    "originalName": "test.jpg",
+    "createdAt": "2026-11-24T15:48:48.876Z"
+  }
+}
