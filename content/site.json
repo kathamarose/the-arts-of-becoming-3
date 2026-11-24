@@ -1,0 +1,95 @@
+{
+  "title": "The Arts of Becoming",
+  "tagline": "A living body of work devoted to the art of being human. Practices, experiences and creative works for remembering your nature.",
+  "nav": [
+    {
+      "type": "page",
+      "page": "pg_e03d3r1tzv",
+      "label": "Home"
+    },
+    {
+      "type": "page",
+      "page": "pg_q1atk7kvph",
+      "label": "The Arts"
+    },
+    {
+      "type": "page",
+      "page": "pg_3dw3angbep",
+      "label": "The Thread"
+    },
+    {
+      "type": "page",
+      "page": "pg_qa49bgaesn",
+      "label": "Journal"
+    },
+    {
+      "type": "page",
+      "page": "pg_awzb01bh1h",
+      "label": "About"
+    },
+    {
+      "type": "page",
+      "page": "pg_5a5n4g6zs8",
+      "label": "Inquire"
+    },
+    {
+      "type": "link",
+      "label": "True To Essence ↗",
+      "href": "https://www.truetoessence.com"
+    }
+  ],
+  "header": {
+    "variant": "classic-left",
+    "sticky": false,
+    "transparentOnHero": false,
+    "mobileMenu": "fullscreen"
+  },
+  "footer": {
+    "id": "sec_87rrg61xhg",
+    "label": "Footer",
+    "layout": {
+      "mode": "stack",
+      "columns": {
+        "d": [
+          12
+        ]
+      }
+    },
+    "style": {
+      "colorTheme": "light-accent"
+    },
+    "blocks": [
+      {
+        "id": "blk_220a1gv4p9",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "© 2026 The Arts of Becoming"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "seo": {
+    "titleTemplate": "%s — The Arts of Becoming",
+    "description": "A living body of work devoted to the art of being human. Practices, experiences and creative works for remembering your nature."
+  },
+  "locale": "en",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  }
+}

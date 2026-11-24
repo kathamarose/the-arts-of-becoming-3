@@ -1,0 +1,75 @@
+{
+  "choices": {
+    "palette": {
+      "brand": "#a8643c",
+      "neutral": "warm",
+      "contrast": "standard",
+      "source": "brand"
+    },
+    "pairing": "fraunces-hanken",
+    "density": "comfortable",
+    "shape": "round",
+    "buttons": "pill-solid",
+    "motion": "subtle",
+    "imageTreatment": "none",
+    "typography": {
+      "heading": {
+        "family": "Fraunces",
+        "category": "serif",
+        "italic": true
+      },
+      "body": {
+        "family": "Hanken Grotesk",
+        "category": "sans-serif"
+      },
+      "scale": {
+        "nav": {
+          "size": 15.68
+        },
+        "wordmark": {
+          "size": 20,
+          "letterSpacing": 0.02,
+          "font": "heading"
+        }
+      }
+    }
+  },
+  "overrides": {
+    "color": {
+      "background": {
+        "$value": "#fefdf5",
+        "$type": "color"
+      },
+      "text": {
+        "$value": "#2e1d13",
+        "$type": "color"
+      },
+      "text-muted": {
+        "$value": "#6f5a4b",
+        "$type": "color"
+      },
+      "border": {
+        "$value": "#e2d7c1",
+        "$type": "color"
+      },
+      "accent": {
+        "$value": "#a8643c",
+        "$type": "color"
+      },
+      "dark": {
+        "background": {
+          "$value": "#2e1d13",
+          "$type": "color"
+        },
+        "text": {
+          "$value": "#fefdf5",
+          "$type": "color"
+        },
+        "heading": {
+          "$value": "#fefdf5",
+          "$type": "color"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "brand": {
+    "name": "The Arts of Becoming"
+  },
+  "tokens": {
+    "colors": {
+      "brown": {
+        "value": "#472d1e"
+      },
+      "cream": {
+        "value": "#fefdf5",
+        "role": "background"
+      },
+      "sand": {
+        "value": "#f3ecdc"
+      },
+      "clay": {
+        "value": "#a8643c",
+        "role": "brand"
+      },
+      "sage": {
+        "value": "#7a8566"
+      },
+      "ink": {
+        "value": "#2e1d13",
+        "role": "text"
+      },
+      "muted": {
+        "value": "#6f5a4b",
+        "role": "text-muted"
+      },
+      "line": {
+        "value": "#e2d7c1",
+        "role": "border"
+      }
+    },
+    "fonts": {
+      "heading": {
+        "family": "Fraunces",
+        "google": true
+      },
+      "body": {
+        "family": "Hanken Grotesk",
+        "google": true
+      }
+    },
+    "type": {
+      "nav": {
+        "size": 15.68
+      },
+      "wordmark": {
+        "size": 20,
+        "letterSpacing": 0.02,
+        "font": "heading"
+      }
+    }
+  },
+  "rules": [
+    "The page's own sections were brought across as designer components: keep their look, edit their fields.",
+    "New sections: use the colours and fonts above through Site Styles (var(--os-color-…), var(--os-font-…))."
+  ],
+  "mapping": {
+    "notes": [
+      "Read your page’s styles: 8 colours, its fonts (Hanken Grotesk, Fraunces) and 2 text styles.",
+      "Your brand colour #a8643c leads the palette (buttons, links and accents).",
+      "Dark sections use your #2e1d13 as the ground with #fefdf5 text.",
+      "Page background #fefdf5, text #2e1d13.",
+      "Your fonts (Fraunces, Hanken Grotesk) are used as they are — free on Google Fonts and published with the site.",
+      "Text sizes kept: nav 15.68px, wordmark 20px.",
+      "6 colour pairings were nudged so all text stays readable (WCAG AA).",
+      "Body text contrast 15.8:1.",
+      "Your page's own colours and fonts were kept; the brand files you added are in the design system for Claude."
+    ],
+    "contrast": [
+      {
+        "theme": "brand",
+        "role": "background",
+        "from": "#a8643c",
+        "to": "#9b5930",
+        "against": "text"
+      },
+      {
+        "theme": "brand",
+        "role": "success",
+        "from": "#b5f8c2",
+        "to": "#b7fbc4",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "warning",
+        "from": "#ffdeba",
+        "to": "#ffe7cb",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "danger",
+        "from": "#ffdbd6",
+        "to": "#ffe5e1",
+        "against": "background"
+      },
+      {
+        "theme": "brand",
+        "role": "accent-hover",
+        "from": "#ebebeb",
+        "to": "#fdfdfd",
+        "against": "accent-text"
+      },
+      {
+        "theme": "brand",
+        "role": "accent-pressed",
+        "from": "#d7d7d7",
+        "to": "#fdfdfd",
+        "against": "accent-text"
+      }
+    ]
+  },
+  "components": {},
+  "sources": [
+    {
+      "kind": "html",
+      "name": "page.zip",
+      "format": "html",
+      "at": "2026-11-24T14:48:55.443Z"
+    }
+  ],
+  "updatedAt": "2026-11-24T14:48:55.443Z",
+  "brief": {
+    "about": "The Arts of Becoming is a living body of work by Kathleen Marie Rose: practices, experiences and creative works for remembering your nature, liberating what is alive, and bringing more of your truth into form. It includes The Thread (1:1 mentorship), embodiment and practice, courses and circles, earth and living systems, creative work, and a journal. True To Essence is her separate photography world.",
+    "audience": "People in a season of change who want to remember who they are and live it more truthfully. They should explore the arts, begin a conversation about The Thread, read the journal, or inquire.",
+    "feeling": [
+      "devotional",
+      "earthy",
+      "unhurried"
+    ],
+    "notes": "Standalone site for artsofbecoming.com. True To Essence (truetoessence.com) is a separate photography site: link out to it, no photography pages or prices here. Nav: Home, The Arts, The Thread, Journal, About, Inquire, plus a True To Essence link. Voice and palette carried from the old Become in Beauty site (deep brown on soft cream)."
+  }
+}

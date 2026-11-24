@@ -1,0 +1,547 @@
+{
+  "id": "pg_q1atk7kvph",
+  "title": "There are many paths for becoming.",
+  "slug": "the-arts",
+  "seo": {
+    "title": "The Arts",
+    "description": "Embodiment, circles, earth and creative work: many paths for becoming."
+  },
+  "sections": [
+    {
+      "id": "sec_kvkgjw34rx",
+      "preset": "starter/stack-12@1",
+      "anchor": "arts",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_9nsrp492de",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Arts"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "There are many paths for becoming."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Four rooms in one house. Enter wherever you are called."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_n1jts4v8xe",
+      "preset": "starter/stack-12@1",
+      "anchor": "embodiment",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_qye3n01qpf",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Embodiment + Practice"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The body is a door."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Yoga taught me early that self-knowledge is not only intellectual. We learn by breathing. Moving. Feeling. Pausing. Meeting resistance. Opening. Strengthening. Softening. Returning."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_1crj5v082r",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "FlowAsana",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Meditation",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Return to Her",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Workshops",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_ad8htdvs6t",
+      "preset": "starter/stack-12@1",
+      "anchor": "courses-circles",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_arn6pma3yg",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Courses + Circles"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We become in relationship."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Not all becoming needs to happen alone. There is medicine in practicing together. Being witnessed. Hearing another person's story. Recognizing ourselves in one another. Letting community become part of the mirror."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_7h0d3x0142",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Ecstatic by Nature",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Story Weaving",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Return to Her",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Seasonal Gatherings",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_0z17evw2r7",
+      "preset": "starter/stack-12@1",
+      "anchor": "earth",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vw7y9jsj19",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Earth + Living Systems"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "To tend life is to be tended by life."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our becoming does not end at the skin. We live inside relationships with land, food, plants, seasons, homes, watersheds, communities and innumerable living beings. My earth work is rooted in remembering those relationships and creating landscapes and ways of living that participate more consciously in them."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_aggq0xqv39",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Garden + Landscape Design",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Herbalism + Plant Relationship",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Seasonal / Regenerative Living",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_y0s0krq1nv",
+      "preset": "starter/stack-12@1",
+      "anchor": "creative",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_0fy6jjy30p",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Creative Work"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Creation is one of the ways Life knows itself."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Photography. Poetry. Writing. Music. Design. Visual worlds. Story."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Some things I create as offerings. Others I create because they ask to exist. Welcome to the studio."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_p6fegtzp22",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Poetry",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Writing",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Music",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Design + Visual Identity",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Photography",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Collaborations",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_g26evn65gj",
+      "preset": "starter/stack-12@1",
+      "anchor": "inquire-arts",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_a29b08fw4y",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Not sure where to begin?"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You don't need to know exactly which offering you need."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_ha82pez377",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Tell me what is calling you",
+            "link": {
+              "type": "page",
+              "page": "pg_e03d3r1tzv"
+            },
+            "role": "primary"
+          }
+        }
+      ]
+    }
+  ]
+}

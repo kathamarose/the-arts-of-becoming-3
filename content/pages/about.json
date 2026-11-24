@@ -1,0 +1,326 @@
+{
+  "id": "pg_awzb01bh1h",
+  "title": "Kathleen Marie Rose",
+  "slug": "about",
+  "seo": {
+    "title": "About",
+    "description": "Kathleen Marie Rose: the artist behind the weaving."
+  },
+  "sections": [
+    {
+      "id": "sec_p0b8vhzen3",
+      "preset": "starter/stack-12@1",
+      "anchor": "about",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_q1028tganw",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "About"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kathleen Marie Rose"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The artist behind the weaving."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I make beauty in reverence to the intimate dance of nature + soul, the human journey of remembering, and the liberation of Life."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Portrait to come"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_e5yqs3devf",
+      "preset": "starter/stack-12@1",
+      "anchor": "renaissance",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_7xkmjgedj5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A regenerative Renaissance woman."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I am a photographer, embodiment teacher, writer, artist, gardener, designer, mentor and community weaver. I am a folk herbalist, a professional permaculturalist and garden designer, a yoga and meditation teacher, a dancer, a singer, a student, always."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For much of my life I thought I needed to decide which one I was. Eventually I realized the question itself was too small."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My work has never really been about any one medium. It is about "
+                    },
+                    {
+                      "type": "text",
+                      "text": "relationship",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": how we relate to ourselves, the body, what has happened to us, expression, one another, the living Earth, and mystery. And how those relationships shape who we become."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_fqmj87jnwt",
+      "preset": "starter/stack-12@1",
+      "anchor": "devotion",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_8ytb29ddk7",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The thread beneath everything."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My path of devotion began at age 17, when I discovered Yoga. Through the returning of the Truth I discovered within myself, I began to awaken to the Truth beneath the masks of the world, and I knew I had a role to play in helping this human world heal and remember its true nature, from the inside out and the outside in."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I have since devoted myself to studies and practices in wellness arts, earth arts, community arts, mystic arts and performing arts: true Aliveness, in relationship with the mystery, the earth and my community."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Ultimately, I am here for this Great Remembering, taking up my many hats in order to steward a revolution, an evolution, within self and culture."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We revolve to evolve."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_0dy4whhg2h",
+      "preset": "starter/stack-12@1",
+      "anchor": "weaving",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_92cc3n2kd8",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The weaving is the work."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "To remember the medicine we each uniquely are. To remember magic and beauty, even in the seemingly mundane. To remember what it means to truly Become in Beauty and live True to Essence."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_mmjsn5n5d7",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Begin a conversation",
+            "link": {
+              "type": "page",
+              "page": "pg_e03d3r1tzv"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_3914d1nvtk",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "True To Essence ↗",
+            "link": {
+              "type": "url",
+              "url": "https://www.truetoessence.com"
+            },
+            "role": "secondary"
+          }
+        }
+      ]
+    }
+  ]
+}
