@@ -82,5 +82,17 @@
     "alt": "Kathleen in a long dress at the water's edge with a rocky jetty behind her",
     "originalName": "dress-shore.jpg",
     "createdAt": "2026-11-24T15:49:48.675Z"
+  },
+  "media/2026/11/mirror-bouquet-9pxr.jpg": {
+    "id": "med_9pxrbcme4b",
+    "path": "media/2026/11/mirror-bouquet-9pxr.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 307914,
+    "width": 1024,
+    "height": 1365,
+    "alt": "Black and white portrait of Kathleen seated on the grass beside an antique mirror and a bouquet of flowers",
+    "originalName": "mirror-bouquet.jpg",
+    "createdAt": "2026-11-24T15:49:53.693Z"
   }
 }
