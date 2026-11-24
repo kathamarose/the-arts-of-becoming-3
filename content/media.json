@@ -46,5 +46,17 @@
     "alt": "Kathleen looking over her shoulder, long dark hair, framed by green leaves",
     "originalName": "kathleen-green-leaves.jpg",
     "createdAt": "2026-11-24T15:49:28.889Z"
+  },
+  "media/2026/11/yoga-sunset-fpth.jpg": {
+    "id": "med_fpthm14t7x",
+    "path": "media/2026/11/yoga-sunset-fpth.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 125340,
+    "width": 1024,
+    "height": 683,
+    "alt": "Silhouette of a yoga pose on the beach at sunset",
+    "originalName": "yoga-sunset.jpg",
+    "createdAt": "2026-11-24T15:49:38.740Z"
   }
 }
