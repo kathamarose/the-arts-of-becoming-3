@@ -7,93 +7,86 @@
   },
   "sections": [
     {
-      "id": "sec_w1cgr08mvb",
-      "preset": "starter/stack-12@1",
-      "anchor": "home",
+      "id": "sec_km07c2m3w9",
+      "preset": "hero/split-image@1",
+      "label": "Hero with portrait",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
+            6,
+            6
+          ],
+          "m": [
             12
           ]
-        }
+        },
+        "align": "center",
+        "gap": "2xl"
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light",
+        "padding": {
+          "d": "xl",
+          "m": "lg"
+        }
       },
       "blocks": [
         {
-          "id": "blk_5pyd1hk0et",
-          "type": "text",
+          "id": "blk_5aaqda8yv4",
+          "type": "heading",
           "v": 1,
+          "column": 0,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "True To Essence presents"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 1
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Arts of Becoming"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A living body of work devoted to the art of being human."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Practices, experiences + creative works for remembering your nature, liberating what is alive, and bringing more of your truth into form."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "You are the medicine."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
+            "text": "The Arts of Becoming",
+            "level": "h1",
+            "size": "h1",
+            "eyebrow": "True To Essence presents",
+            "subheading": "A living body of work devoted to the art of being human. Practices, experiences + creative works for remembering your nature, liberating what is alive, and bringing more of your truth into form."
+          },
+          "variant": "plain"
         },
         {
-          "id": "blk_8rhe24rhqd",
+          "id": "blk_v4bs1gzdp5",
           "type": "button",
           "v": 1,
+          "column": 0,
           "fields": {
-            "label": "Work with me",
+            "label": "Explore the Arts",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_q1atk7kvph",
+              "type": "page"
             },
-            "role": "secondary"
-          }
+            "role": "primary",
+            "secondaryLabel": "Work with me",
+            "secondaryLink": {
+              "page": "pg_3dw3angbep",
+              "type": "page"
+            },
+            "note": "You are the medicine."
+          },
+          "variant": "default"
+        },
+        {
+          "id": "blk_gafb9nyp7n",
+          "type": "image",
+          "v": 1,
+          "column": 1,
+          "fields": {
+            "image": {
+              "alt": "Black and white portrait of Kathleen seated on the grass beside an antique mirror and a bouquet of flowers",
+              "focal": [
+                0.5,
+                0.4
+              ],
+              "height": 1365,
+              "src": "media/2026/11/mirror-bouquet-9pxr.jpg",
+              "width": 1024
+            },
+            "aspect": "4:5",
+            "lightbox": false
+          },
+          "variant": "default"
         }
       ]
     },
@@ -110,7 +103,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -319,155 +312,142 @@
               ]
             }
           }
-        }
-      ]
-    },
-    {
-      "id": "sec_n1kempa94v",
-      "preset": "starter/stack-12@1",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
+        },
         {
-          "id": "blk_t8qvz59430",
-          "type": "text",
+          "id": "blk_0gd2ze8qx5",
+          "type": "columns",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
+            "items": [
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "See"
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Awareness · Reflection · Self-study",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Meet what is actually here. Witness yourself, your patterns, your beauty, your stories, your desires, your edges and the life moving around you."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "paragraph",
+                "heading": "See"
+              },
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Awareness · Reflection · Self-study"
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feeling · Reclamation · Release",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Meet what constricts your aliveness. Uncover conditioning. Feel what has been waiting to be felt. Reclaim forgotten parts. Expand your capacity to belong to yourself."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "paragraph",
+                "heading": "Liberate"
+              },
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Meet what is actually here. Witness yourself, your patterns, your beauty, your stories, your desires, your edges and the life moving around you."
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Expression · Choice · Art",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Give form to what you discover. Your voice. Your movement. Your work. Your imagery. Your relationships. Your visions. Your next chapter."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
+                "heading": "Create"
+              },
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Liberate"
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Practice · Integration · Stewardship",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tend what you wish to become. Through repetition, relationship, ritual, nourishment and care, create the conditions in which a truer life can grow."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Feeling · Reclamation · Release"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Meet what constricts your aliveness. Uncover conditioning. Feel what has been waiting to be felt. Reclaim forgotten parts. Expand your capacity to belong to yourself."
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Create"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Expression · Choice · Art"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Give form to what you discover. Your voice. Your movement. Your work. Your imagery. Your relationships. Your visions. Your next chapter."
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Cultivate"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Practice · Integration · Stewardship"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tend what you wish to become. Through repetition, relationship, ritual, nourishment and care, create the conditions in which a truer life can grow."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
+                "heading": "Cultivate"
+              }
+            ],
+            "columns": "4",
+            "aspect": "3:2"
+          },
+          "variant": "cards"
         }
       ]
     },
@@ -519,191 +499,186 @@
               ]
             }
           }
-        }
-      ]
-    },
-    {
-      "id": "sec_t4s924y2g9",
-      "preset": "starter/stack-12@1",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
+        },
         {
-          "id": "blk_pxmjh9ma4x",
-          "type": "text",
+          "id": "blk_caj7r4ajat",
+          "type": "columns",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
+            "items": [
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Embodiment + Practice"
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Come home through the body.",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Yoga, meditation, somatics, movement, sensuality, breath, nervous-system awareness and embodied self-study."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "paragraph",
+                "heading": "Embodiment + Practice",
+                "image": {
+                  "alt": "Silhouette of a yoga pose on the beach at sunset",
+                  "focal": [
+                    0.3,
+                    0.5
+                  ],
+                  "height": 683,
+                  "src": "media/2026/11/yoga-sunset-fpth.jpg",
+                  "width": 1024
+                },
+                "link": {
+                  "anchor": "embodiment",
+                  "page": "pg_q1atk7kvph",
+                  "type": "page"
+                },
+                "linkLabel": "Explore Embodiment →"
+              },
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Come home through the body"
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "We become in relationship.",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " There is medicine in practicing together. Being witnessed. Hearing another person's story. Recognizing ourselves in one another."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "paragraph",
+                "heading": "Courses + Circles",
+                "image": {
+                  "alt": "Kathleen kneeling in shallow water among dark rocks",
+                  "focal": [
+                    0.5,
+                    0.55
+                  ],
+                  "height": 683,
+                  "src": "media/2026/11/kneeling-water-02rf.jpg",
+                  "width": 1024
+                },
+                "link": {
+                  "anchor": "courses-circles",
+                  "page": "pg_q1atk7kvph",
+                  "type": "page"
+                },
+                "linkLabel": "Explore Circles →"
+              },
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Yoga, meditation, somatics, movement, sensuality, breath, nervous-system awareness and embodied self-study."
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Return to relationship with nature.",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Plant medicine, gardens, ecology, seasonal living, rewilding, cultivation and regenerative ways of living."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "paragraph",
+                "heading": "Earth + Living Systems",
+                "image": {
+                  "alt": "Kathleen standing beside a blooming hydrangea on a brick garden path",
+                  "focal": [
+                    0.5,
+                    0.5
+                  ],
+                  "height": 1536,
+                  "src": "media/2026/11/hydrangea-garden-cssp.jpg",
+                  "width": 1024
+                },
+                "link": {
+                  "anchor": "earth",
+                  "page": "pg_q1atk7kvph",
+                  "type": "page"
+                },
+                "linkLabel": "Explore Earth →"
+              },
+              {
+                "body": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "text",
-                      "text": "Explore Embodiment →"
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Become through what you make and tell.",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Writing, poetry, storytelling, music, design and visual worlds. Creation is one of the ways Life knows itself."
+                        }
+                      ]
                     }
                   ]
                 },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Courses + Circles"
-                    }
-                  ]
+                "heading": "Creative Work",
+                "image": {
+                  "alt": "Kathleen in a pale dress wading at golden hour with an egret nearby",
+                  "focal": [
+                    0.3,
+                    0.55
+                  ],
+                  "height": 683,
+                  "src": "media/2026/11/golden-hour-egret-ckz4.jpg",
+                  "width": 1024
                 },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "We become in relationship"
-                    }
-                  ]
+                "link": {
+                  "anchor": "creative",
+                  "page": "pg_q1atk7kvph",
+                  "type": "page"
                 },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "There is medicine in practicing together. Being witnessed. Hearing another person's story. Recognizing ourselves in one another."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Explore Circles →"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Earth + Living Systems"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Return to relationship with nature"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Plant medicine, gardens, ecology, seasonal living, rewilding, cultivation and regenerative ways of living."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Explore Earth →"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Creative Work"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Become through what you make and tell"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Writing, poetry, storytelling, music, design and visual worlds. Creation is one of the ways Life knows itself."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Enter the studio →"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
+                "linkLabel": "Enter the studio →"
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          },
+          "variant": "cards"
         }
       ]
     },
@@ -720,7 +695,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -799,8 +774,8 @@
           "fields": {
             "label": "Explore The Thread",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_3dw3angbep",
+              "type": "page"
             },
             "role": "primary"
           }
@@ -815,31 +790,49 @@
         "mode": "stack",
         "columns": {
           "d": [
+            6,
+            6
+          ],
+          "m": [
             12
           ]
-        }
+        },
+        "align": "center",
+        "gap": "2xl"
       },
       "style": {
         "colorTheme": "light"
       },
       "blocks": [
         {
+          "id": "blk_q6zy2p2frb",
+          "type": "image",
+          "v": 1,
+          "column": 0,
+          "fields": {
+            "image": {
+              "alt": "Black and white silhouette of Kathleen standing on wet rocks by the sea, arms raised behind her head",
+              "focal": [
+                0.5,
+                0.4
+              ],
+              "height": 1536,
+              "src": "media/2026/11/silhouette-rocks-v4nf.jpg",
+              "width": 1024
+            },
+            "aspect": "4:5",
+            "lightbox": false
+          }
+        },
+        {
           "id": "blk_ez9j55mr5w",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
               "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Photograph to come"
-                    }
-                  ]
-                },
                 {
                   "type": "paragraph",
                   "content": [
@@ -887,6 +880,7 @@
           "id": "blk_7wnegapec8",
           "type": "button",
           "v": 1,
+          "column": 1,
           "fields": {
             "label": "Enter True To Essence ↗",
             "link": {
@@ -954,39 +948,99 @@
           "fields": {
             "items": [
               {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Private mentorship"
+                        }
+                      ]
+                    }
+                  ]
+                },
                 "heading": "The Thread",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "link": {
+                  "page": "pg_3dw3angbep",
+                  "type": "page"
+                },
+                "linkLabel": "Explore"
               },
               {
-                "heading": "FlowAsana",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Weekly practice"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "FlowAsana"
               },
               {
-                "heading": "Ecstatic by Nature",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Self-led course"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Ecstatic by Nature"
               },
               {
-                "heading": "Story Weaving",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Next circle"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Story Weaving"
               },
               {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "At True To Essence"
+                        }
+                      ]
+                    }
+                  ]
+                },
                 "heading": "Soulcentric Photography",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "link": {
+                  "type": "url",
+                  "url": "https://www.truetoessence.com"
+                },
+                "linkLabel": "Visit"
               }
             ],
             "columns": "4",
@@ -1081,8 +1135,8 @@
           "fields": {
             "label": "Read The Arts of Becoming →",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_qa49bgaesn",
+              "type": "page"
             },
             "role": "secondary"
           }
@@ -1097,12 +1151,18 @@
         "mode": "stack",
         "columns": {
           "d": [
+            6,
+            6
+          ],
+          "m": [
             12
           ]
-        }
+        },
+        "align": "center",
+        "gap": "2xl"
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -1181,31 +1241,30 @@
           "fields": {
             "label": "Meet Kathleen",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_awzb01bh1h",
+              "type": "page"
             },
             "role": "secondary"
           }
         },
         {
-          "id": "blk_rzb4cgevz4",
-          "type": "text",
+          "id": "blk_jqy0dvjjmq",
+          "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Portrait to come"
-                    }
-                  ]
-                }
-              ]
-            }
+            "image": {
+              "alt": "Kathleen smiling with her eyes closed, leaning into bright red roses",
+              "focal": [
+                0.4,
+                0.4
+              ],
+              "height": 1365,
+              "src": "media/2026/11/kathleen-roses-nmhv.jpg",
+              "width": 1024
+            },
+            "aspect": "4:5",
+            "lightbox": false
           }
         }
       ]
@@ -1223,7 +1282,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -1257,8 +1316,8 @@
           "fields": {
             "label": "Begin here",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_5a5n4g6zs8",
+              "type": "page"
             },
             "role": "primary"
           }

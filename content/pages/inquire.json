@@ -114,46 +114,122 @@
           "fields": {
             "items": [
               {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The Thread, 1:1 mentorship"
+                        }
+                      ]
+                    }
+                  ]
+                },
                 "heading": "I want support in my becoming.",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "link": {
+                  "page": "pg_3dw3angbep",
+                  "type": "page"
+                },
+                "linkLabel": "Explore The Thread"
               },
               {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Classes, courses + circles"
+                        }
+                      ]
+                    }
+                  ]
+                },
                 "heading": "I want to learn and practice with you.",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "link": {
+                  "anchor": "courses-circles",
+                  "page": "pg_q1atk7kvph",
+                  "type": "page"
+                },
+                "linkLabel": "See the circles"
               },
               {
-                "heading": "I want garden + earth work.",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Earth + Living Systems"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "I want garden + earth work."
               },
               {
-                "heading": "I want to collaborate or invite you into something.",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Creative work, teaching, gatherings"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "I want to collaborate or invite you into something."
               },
               {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "True To Essence"
+                        }
+                      ]
+                    }
+                  ]
+                },
                 "heading": "I want to be photographed.",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "link": {
+                  "type": "url",
+                  "url": "https://www.truetoessence.com"
+                },
+                "linkLabel": "Visit True To Essence"
               },
               {
-                "heading": "I'm not sure yet.",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tell me what is moving"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "I'm not sure yet."
               }
             ],
             "columns": "4",

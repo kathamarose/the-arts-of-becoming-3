@@ -84,6 +84,25 @@
       },
       "blocks": [
         {
+          "id": "blk_qnqq1h7jfg",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "alt": "Silhouette of a yoga pose on the beach at sunset",
+              "focal": [
+                0.3,
+                0.5
+              ],
+              "height": 683,
+              "src": "media/2026/11/yoga-sunset-fpth.jpg",
+              "width": 1024
+            },
+            "aspect": "21:9",
+            "lightbox": false
+          }
+        },
+        {
           "id": "blk_qye3n01qpf",
           "type": "text",
           "v": 1,
@@ -132,32 +151,72 @@
           "fields": {
             "items": [
               {
-                "heading": "FlowAsana",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alignment-based yoga + qi gong + intuitive movement + breath + stillness"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "FlowAsana"
               },
               {
-                "heading": "Meditation",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Silent and guided practice"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Meditation"
               },
               {
-                "heading": "Return to Her",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Women's embodiment + feminine reclamation"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Return to Her"
               },
               {
-                "heading": "Workshops",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Seasonal embodiment, relationship, sensuality, ritual"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Workshops"
               }
             ],
             "columns": "4",
@@ -182,6 +241,25 @@
         "colorTheme": "light"
       },
       "blocks": [
+        {
+          "id": "blk_1sjegt31xh",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "alt": "Kathleen kneeling in shallow water among dark rocks",
+              "focal": [
+                0.5,
+                0.55
+              ],
+              "height": 683,
+              "src": "media/2026/11/kneeling-water-02rf.jpg",
+              "width": 1024
+            },
+            "aspect": "21:9",
+            "lightbox": false
+          }
+        },
         {
           "id": "blk_arn6pma3yg",
           "type": "text",
@@ -231,32 +309,72 @@
           "fields": {
             "items": [
               {
-                "heading": "Ecstatic by Nature",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A seven-part earth, body + ecstatic embodiment course"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Ecstatic by Nature"
               },
               {
-                "heading": "Story Weaving",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Storytelling for self-actualization + collective becoming"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Story Weaving"
               },
               {
-                "heading": "Return to Her",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "When run as a cohort"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Return to Her"
               },
               {
-                "heading": "Seasonal Gatherings",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Whatever is alive now"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Seasonal Gatherings"
               }
             ],
             "columns": "4",
@@ -278,9 +396,28 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
+        {
+          "id": "blk_xbz715jwe3",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "alt": "Kathleen standing beside a blooming hydrangea on a brick garden path",
+              "focal": [
+                0.5,
+                0.35
+              ],
+              "height": 1536,
+              "src": "media/2026/11/hydrangea-garden-cssp.jpg",
+              "width": 1024
+            },
+            "aspect": "21:9",
+            "lightbox": false
+          }
+        },
         {
           "id": "blk_vw7y9jsj19",
           "type": "text",
@@ -330,25 +467,55 @@
           "fields": {
             "items": [
               {
-                "heading": "Garden + Landscape Design",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Permaculture garden design and consulting"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Garden + Landscape Design"
               },
               {
-                "heading": "Herbalism + Plant Relationship",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Folk herbalism and relationship with the plants"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Herbalism + Plant Relationship"
               },
               {
-                "heading": "Seasonal / Regenerative Living",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rewilding, cultivation and ways of living that regenerate"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Seasonal / Regenerative Living"
               }
             ],
             "columns": "3",
@@ -373,6 +540,25 @@
         "colorTheme": "light"
       },
       "blocks": [
+        {
+          "id": "blk_71e4ftkv7c",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "alt": "Kathleen in a pale dress wading at golden hour with an egret nearby",
+              "focal": [
+                0.3,
+                0.55
+              ],
+              "height": 683,
+              "src": "media/2026/11/golden-hour-egret-ckz4.jpg",
+              "width": 1024
+            },
+            "aspect": "21:9",
+            "lightbox": false
+          }
+        },
         {
           "id": "blk_0fy6jjy30p",
           "type": "text",
@@ -431,46 +617,116 @@
           "fields": {
             "items": [
               {
-                "heading": "Poetry",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verse from the living edge"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Poetry"
               },
               {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Essays and field notes in the Journal"
+                        }
+                      ]
+                    }
+                  ]
+                },
                 "heading": "Writing",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "link": {
+                  "page": "pg_qa49bgaesn",
+                  "type": "page"
+                },
+                "linkLabel": "Read the Journal"
               },
               {
-                "heading": "Music",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Voice, song + sound"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Music"
               },
               {
-                "heading": "Design + Visual Identity",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Graphic and visual worlds"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Design + Visual Identity"
               },
               {
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lives at True To Essence"
+                        }
+                      ]
+                    }
+                  ]
+                },
                 "heading": "Photography",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "link": {
+                  "type": "url",
+                  "url": "https://www.truetoessence.com"
+                },
+                "linkLabel": "Visit True To Essence"
               },
               {
-                "heading": "Collaborations",
                 "body": {
                   "type": "doc",
-                  "content": []
-                }
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Invitations to make something together"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "heading": "Collaborations"
               }
             ],
             "columns": "4",
@@ -492,7 +748,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -535,8 +791,8 @@
           "fields": {
             "label": "Tell me what is calling you",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_5a5n4g6zs8",
+              "type": "page"
             },
             "role": "primary"
           }

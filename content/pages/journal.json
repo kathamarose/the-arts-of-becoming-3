@@ -68,6 +68,45 @@
       ]
     },
     {
+      "id": "sec_j5jyfawb9b",
+      "label": "Banner photograph",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_dhnmvcqyzz",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "alt": "Kathleen in a long dress at the water's edge with a rocky jetty behind her",
+              "focal": [
+                0.65,
+                0.5
+              ],
+              "height": 683,
+              "src": "media/2026/11/dress-shore-5pjh.jpg",
+              "width": 1024
+            },
+            "aspect": "21:9",
+            "lightbox": false
+          }
+        }
+      ]
+    },
+    {
       "id": "sec_8bh4q4th0y",
       "preset": "starter/stack-12@1",
       "anchor": "territories",
@@ -209,7 +248,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -269,7 +308,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -312,8 +351,8 @@
           "fields": {
             "label": "Ask to be on the list",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_5a5n4g6zs8",
+              "type": "page"
             },
             "role": "primary"
           }

@@ -1,0 +1,122 @@
+{
+  "media/2026/11/test-12k2.jpg": {
+    "id": "med_12k2enzq16",
+    "path": "media/2026/11/test-12k2.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 178565,
+    "width": 1024,
+    "height": 1024,
+    "alt": "test",
+    "originalName": "test.jpg",
+    "createdAt": "2026-11-24T15:48:48.876Z"
+  },
+  "media/2026/11/silhouette-rocks-v4nf.jpg": {
+    "id": "med_v4nf0nqc2d",
+    "path": "media/2026/11/silhouette-rocks-v4nf.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 153106,
+    "width": 1024,
+    "height": 1536,
+    "alt": "Black and white silhouette of Kathleen standing on wet rocks by the sea, arms raised behind her head",
+    "originalName": "silhouette-rocks.jpg",
+    "createdAt": "2026-11-24T15:49:12.581Z"
+  },
+  "media/2026/11/kathleen-roses-nmhv.jpg": {
+    "id": "med_nmhvyvk93n",
+    "path": "media/2026/11/kathleen-roses-nmhv.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 518627,
+    "width": 1024,
+    "height": 1365,
+    "alt": "Kathleen smiling with her eyes closed, leaning into bright red roses",
+    "originalName": "kathleen-roses.jpg",
+    "createdAt": "2026-11-24T15:49:20.428Z"
+  },
+  "media/2026/11/kathleen-green-leaves-gf4g.jpg": {
+    "id": "med_gf4g5jv4gh",
+    "path": "media/2026/11/kathleen-green-leaves-gf4g.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 127010,
+    "width": 1024,
+    "height": 683,
+    "alt": "Kathleen looking over her shoulder, long dark hair, framed by green leaves",
+    "originalName": "kathleen-green-leaves.jpg",
+    "createdAt": "2026-11-24T15:49:28.889Z"
+  },
+  "media/2026/11/yoga-sunset-fpth.jpg": {
+    "id": "med_fpthm14t7x",
+    "path": "media/2026/11/yoga-sunset-fpth.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 125340,
+    "width": 1024,
+    "height": 683,
+    "alt": "Silhouette of a yoga pose on the beach at sunset",
+    "originalName": "yoga-sunset.jpg",
+    "createdAt": "2026-11-24T15:49:38.740Z"
+  },
+  "media/2026/11/hydrangea-garden-cssp.jpg": {
+    "id": "med_csspytz1v2",
+    "path": "media/2026/11/hydrangea-garden-cssp.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 501153,
+    "width": 1024,
+    "height": 1536,
+    "alt": "Kathleen standing beside a blooming hydrangea on a brick garden path",
+    "originalName": "hydrangea-garden.jpg",
+    "createdAt": "2026-11-24T15:49:43.409Z"
+  },
+  "media/2026/11/dress-shore-5pjh.jpg": {
+    "id": "med_5pjhfkpmnn",
+    "path": "media/2026/11/dress-shore-5pjh.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 107576,
+    "width": 1024,
+    "height": 683,
+    "alt": "Kathleen in a long dress at the water's edge with a rocky jetty behind her",
+    "originalName": "dress-shore.jpg",
+    "createdAt": "2026-11-24T15:49:48.675Z"
+  },
+  "media/2026/11/mirror-bouquet-9pxr.jpg": {
+    "id": "med_9pxrbcme4b",
+    "path": "media/2026/11/mirror-bouquet-9pxr.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 307914,
+    "width": 1024,
+    "height": 1365,
+    "alt": "Black and white portrait of Kathleen seated on the grass beside an antique mirror and a bouquet of flowers",
+    "originalName": "mirror-bouquet.jpg",
+    "createdAt": "2026-11-24T15:49:53.693Z"
+  },
+  "media/2026/11/golden-hour-egret-ckz4.jpg": {
+    "id": "med_ckz4dzmp9z",
+    "path": "media/2026/11/golden-hour-egret-ckz4.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 103356,
+    "width": 1024,
+    "height": 683,
+    "alt": "Kathleen in a pale dress wading at golden hour with an egret nearby",
+    "originalName": "golden-hour-egret.jpg",
+    "createdAt": "2026-11-24T15:49:59.663Z"
+  },
+  "media/2026/11/kneeling-water-02rf.jpg": {
+    "id": "med_02rfhe9rva",
+    "path": "media/2026/11/kneeling-water-02rf.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 138131,
+    "width": 1024,
+    "height": 683,
+    "alt": "Kathleen kneeling in shallow water among dark rocks",
+    "originalName": "kneeling-water.jpg",
+    "createdAt": "2026-11-24T15:50:04.383Z"
+  }
+}

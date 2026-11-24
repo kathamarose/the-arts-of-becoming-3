@@ -15,9 +15,15 @@
         "mode": "stack",
         "columns": {
           "d": [
+            6,
+            6
+          ],
+          "m": [
             12
           ]
-        }
+        },
+        "align": "center",
+        "gap": "2xl"
       },
       "style": {
         "colorTheme": "light"
@@ -69,18 +75,29 @@
                       "text": "I make beauty in reverence to the intimate dance of nature + soul, the human journey of remembering, and the liberation of Life."
                     }
                   ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Portrait to come"
-                    }
-                  ]
                 }
               ]
             }
+          }
+        },
+        {
+          "id": "blk_5az7qt98hz",
+          "type": "image",
+          "v": 1,
+          "column": 1,
+          "fields": {
+            "image": {
+              "alt": "Kathleen looking over her shoulder, long dark hair, framed by green leaves",
+              "focal": [
+                0.65,
+                0.4
+              ],
+              "height": 683,
+              "src": "media/2026/11/kathleen-green-leaves-gf4g.jpg",
+              "width": 1024
+            },
+            "aspect": "4:5",
+            "lightbox": false
           }
         }
       ]
@@ -258,7 +275,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark"
       },
       "blocks": [
         {
@@ -301,8 +318,8 @@
           "fields": {
             "label": "Begin a conversation",
             "link": {
-              "type": "page",
-              "page": "pg_e03d3r1tzv"
+              "page": "pg_5a5n4g6zs8",
+              "type": "page"
             },
             "role": "primary"
           }
