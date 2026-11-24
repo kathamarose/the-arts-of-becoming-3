@@ -94,5 +94,17 @@
     "alt": "Black and white portrait of Kathleen seated on the grass beside an antique mirror and a bouquet of flowers",
     "originalName": "mirror-bouquet.jpg",
     "createdAt": "2026-11-24T15:49:53.693Z"
+  },
+  "media/2026/11/golden-hour-egret-ckz4.jpg": {
+    "id": "med_ckz4dzmp9z",
+    "path": "media/2026/11/golden-hour-egret-ckz4.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 103356,
+    "width": 1024,
+    "height": 683,
+    "alt": "Kathleen in a pale dress wading at golden hour with an egret nearby",
+    "originalName": "golden-hour-egret.jpg",
+    "createdAt": "2026-11-24T15:49:59.663Z"
   }
 }
