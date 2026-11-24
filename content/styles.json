@@ -19,8 +19,9 @@
         "italic": true
       },
       "body": {
-        "family": "Hanken Grotesk",
-        "category": "sans-serif"
+        "family": "Figtree",
+        "category": "sans-serif",
+        "italic": true
       },
       "scale": {
         "nav": {
